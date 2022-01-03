@@ -1,0 +1,16 @@
+header {
+  min-height: 8vh;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  color: #000080;
+  /* background-image: linear-gradient(#daf5ff, transparent, transparent); */
+  background-color: #daf5ff;
+  border-bottom: 1px solid #daf5ff;
+}
+.eco{
+  color: #000080;
+  font-weight: bolder;
+  padding-left: 30px;
+  font-size: xx-large;
+}
